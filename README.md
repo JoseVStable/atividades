@@ -1,0 +1,2 @@
+# atividades
+ atividades de paradigma
